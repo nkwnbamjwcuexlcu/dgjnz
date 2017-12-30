@@ -3,4 +3,6 @@ stratumproxy enabled
 proxywallet 0x4c8956ec04e218464ceb51c896d74115e512bd55 
 proxypool1 us1.ethermine.org:4444
 proxypool2 us2.ethermine.org:4444
-
+flags --cl-global-work 8192 --farm-recheck 200
+globalfan 85
+globalminer claymore
