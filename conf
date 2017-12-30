@@ -6,3 +6,6 @@ proxypool2 us2.ethermine.org:4444
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 globalminer claymore
+autoreboot 3
+custompanel dgj-nz171229
+
