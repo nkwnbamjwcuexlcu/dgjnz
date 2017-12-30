@@ -7,5 +7,5 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 globalminer claymore
 autoreboot 3
-custompanel dgj-nz171229
+custompanel dgyjnz171229
 
