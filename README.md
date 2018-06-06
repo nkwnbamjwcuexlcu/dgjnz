@@ -1,2 +1,2 @@
-# Diggy Jones LLC
+# Diggy Jones 
 http://dgj.nz/
